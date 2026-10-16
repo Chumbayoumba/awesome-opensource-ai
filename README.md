@@ -187,7 +187,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Data Labeling & Annotation
 
-- [Doccano](https://github.com/doccano/doccano) - Open-source text annotation tool for machine learning practitioners. Features text classification, sequence labeling, and sequence-to-sequence tasks for sentiment analysis, NER, and summarization. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/doccano/doccano?style=social)
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine) - Free, open-source power tool for working with messy data. Clean, transform, and extend data with web services. Formerly Google Refine. BSD-3-Clause licensed. ![GitHub stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social)
 
 #### AutoML & Hyperparameter Optimization
@@ -1029,7 +1028,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Framework for large language model evaluations from the UK AI Security Institute. ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social)
 - [Lighteval](https://github.com/huggingface/lighteval) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking. ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social)
 - [Hugging Face Evaluate](https://github.com/huggingface/evaluate) - Standardized evaluation metrics. ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social)
-- [OpenAI Evals](https://github.com/openai/evals) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social)
 - [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks. ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social)
 - [BrowserGym](https://github.com/ServiceNow/BrowserGym) - Gym environment for web task automation and agent evaluation. Includes MiniWoB, WebArena, WorkArena, and more. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)
 - [TruLens](https://github.com/truera/trulens) - Evaluation and tracking for LLM experiments and AI agents. Provides feedback functions for measuring quality, relevance, and groundedness with LangChain and LlamaIndex integrations. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social)

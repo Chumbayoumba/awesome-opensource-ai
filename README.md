@@ -1390,6 +1390,8 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### IDE Plugins & Extensions
 
+- [Sem](https://github.com/Ataraxy-Labs/sem) - Local structural code search, caller navigation, impact analysis, and entity-level diffs exposed to coding agents through a CLI and MCP server. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Ataraxy-Labs/sem?style=social)
+- [Weave](https://github.com/Ataraxy-Labs/weave) - Syntax-aware merge tool for overlapping coding-agent changes, with branch previews and Git merge-driver integration. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Ataraxy-Labs/weave?style=social)
 - [Parallel Search MCP](https://github.com/parallel-web/search-mcp) - MIT-licensed client packages and a setup skill that connect coding agents to Parallel's hosted web search and page fetching service without a Parallel account or API key. ![GitHub stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)
 - [Serply Agent Skills](https://github.com/serply-inc/skills) - MIT-licensed agent skill and Claude Code / Codex plugins that connect coding agents to the Serply API and hosted MCP server for Google web, News, Scholar, Maps and Jobs search, Bing, Amazon, Reddit and URL scraping; requires a Serply API key. ![GitHub stars](https://img.shields.io/github/stars/serply-inc/skills?style=social)
 - [Archify](https://github.com/tt-a1i/archify) - Diagram-generation agent skill for Claude Code, Codex, and OpenCode that converts natural language into interactive system, workflow, sequence, data flow, and lifecycle diagrams. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/tt-a1i/archify?style=social)
